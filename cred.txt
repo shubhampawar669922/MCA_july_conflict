@@ -1,0 +1,3 @@
+password = root
+username = root
+email = shubham@gmail.com
